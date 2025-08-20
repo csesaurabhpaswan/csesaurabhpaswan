@@ -52,8 +52,8 @@ I’m continuously expanding my knowledge in **software development, web technol
 
 Feel free to connect with me:  
 
-- **LinkedIn:** [Saurabh Paswan](https://www.linkedin.com/in/saurabhpaswan)  
-- **GitHub:** [@SaurabhPaswan](https://github.com/SaurabhPaswan)  
-- **Email:** your-email@example.com  
+- **LinkedIn:** [Saurabh Paswan](https://www.linkedin.com/in/csesaurabhpaswan/)  
+- **GitHub:** [@SaurabhPaswan](https://github.com/csesaurabhpaswan)  
+- **Email:** er.saurabhpaswan 
 
 Looking forward to collaborating and sharing ideas! 🚀
