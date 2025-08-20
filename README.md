@@ -8,7 +8,7 @@
 ## 🚀 Skills
 
 **Programming Languages:** C, C++, JavaScript, HTML, CSS, Java  
-**Roles:** Software Developer, Web Developer, Data Entry Operator  
+**Roles:**  MERN Developer, Data Entry Operator  
 
 ---
 
