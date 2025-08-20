@@ -54,6 +54,6 @@ Feel free to connect with me:
 
 - **LinkedIn:** [Saurabh Paswan](https://www.linkedin.com/in/csesaurabhpaswan/)  
 - **GitHub:** [@SaurabhPaswan](https://github.com/csesaurabhpaswan)  
-- **Email:** er.saurabhpaswan 
+- **Email:** er.saurabhpaswan422@gmail.com
 
-Looking forward to collaborating and sharing ideas! 🚀
+
